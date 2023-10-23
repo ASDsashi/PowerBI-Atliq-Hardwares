@@ -45,19 +45,23 @@ Within Power BI, the ETL process will be conducted to ensure data quality and re
 ## Key Insights
 - **Revenue Trends**:
   - Revenue has shown a declining trend over the years. It peaked in 2018 and has been decreasing since then. This indicates the need for targeted strategies to reverse this trend.
+    
 ![image](https://github.com/ASDsashi/PowerBI-Atliq-Hardwares/assets/71587160/452ed50d-8baf-4332-b13a-f7b54800ba87)
 
 - **Electricalsara Stores **:
   - Electricalsara Stores is a key contributor to the overall revenue of Atliq Hardware
+    
 ![image](https://github.com/ASDsashi/PowerBI-Atliq-Hardwares/assets/71587160/5c5ecee2-5bc1-40f9-adc2-c64bca037063)
 
 - **Revenues from Electricalsara Stores Clients**:
-  - Revenues are declining. It's recommended to engage more with these clients and explore strategies to increase sales, such as offering special discounts.
+  - Revenues are declining. It's recommended to engage more with these clients and explore strategies to increase sales, such as offering special discounts
+    
 ![image](https://github.com/ASDsashi/PowerBI-Atliq-Hardwares/assets/71587160/5fba1b55-b26d-4e19-b52b-8bd97d46b3d9)
 
 These insights provide a comprehensive overview of the overall sales of Atliq Hardware
 
 ## Dashboard Preview
 ![image](https://github.com/ASDsashi/PowerBI-Atliq-Hardwares/assets/71587160/736eb21a-ffe5-4fb3-b6af-2e84229f4b7d)
-![image](https://github.com/ASDsashi/PowerBI-Atliq-Hardwares/assets/71587160/f153ef1a-0282-4d30-88c1-784c288eb7f4)
+![image](https://github.com/ASDsashi/PowerBI-Atliq-Hardwares/assets/71587160/2a7b1a50-4178-4956-88c1-169768f6347e)
+
 
